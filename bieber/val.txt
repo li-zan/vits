@@ -1,0 +1,3 @@
+./dataset/44k/bieber/00_chengdu.wav
+./dataset/44k/bieber/00_lemon.wav
+./dataset/44k/bieber/00_Love Story.wav

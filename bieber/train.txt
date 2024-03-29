@@ -1,0 +1,851 @@
+./dataset/44k/bieber/42_42_9_Justin Bieber - Sorry Apologize_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/5_5_1_Justin Bieber - Off My Face_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/46_46_10_Justin Bieber - Sorry_(Vocals)_(Vocals)_(No Reverb)_23.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_22.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/50_50_12_Justin Bieber - Changes_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/42_42_9_Justin Bieber - Sorry Apologize_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/38_38_8_Justin Bieber - Somebody_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/21_21_4_Justin Bieber - Yummy_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/21_21_4_Justin Bieber - Yummy_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/27_27_6_Justin Bieber - Baby (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/5_5_1_Justin Bieber - Off My Face_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/41_41_9_Justin Bieber - Love Me_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/26_26_5_Justin Bieber _ Nicki Minaj - Beauty And A Beat_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/29_29_6_Justin Bieber - Latin Girl_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/36_36_8_Justin Bieber - Ghost_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_21.wav
+./dataset/44k/bieber/42_42_9_Justin Bieber - Sorry Apologize_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/40_40_9_Justin Bieber - Habitual_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/49_49_11_Justin Bieber - Mark My Words_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_20.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_28.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_21.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/29_29_6_Justin Bieber - Latin Girl_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/41_41_9_Justin Bieber - Love Me_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/13_13_3_Justin Bieber - Company_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/44_44_10_Justin Bieber - Hailey_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/38_38_8_Justin Bieber - Somebody_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/26_26_5_Justin Bieber _ Nicki Minaj - Beauty And A Beat_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/49_49_11_Justin Bieber - Mark My Words_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/21_21_4_Justin Bieber - Yummy_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/38_38_8_Justin Bieber - Somebody_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/13_13_3_Justin Bieber - Company_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/42_42_9_Justin Bieber - Sorry Apologize_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/11_11_2_Justin Bieber - The Minimix (Remix)_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/29_29_6_Justin Bieber - Latin Girl_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/50_50_12_Justin Bieber - Changes_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/50_50_12_Justin Bieber - Changes_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/17_17_4_Justin Bieber - As Long As You Love Me (Ferry Corsten Radio)_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/50_50_12_Justin Bieber - Changes_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/36_36_8_Justin Bieber - Ghost_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_26.wav
+./dataset/44k/bieber/20_20_4_Justin Bieber - One Time_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/42_42_9_Justin Bieber - Sorry Apologize_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_23.wav
+./dataset/44k/bieber/50_50_12_Justin Bieber - Changes_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/49_49_11_Justin Bieber - Mark My Words_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/11_11_2_Justin Bieber - The Minimix (Remix)_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/23_23_5_Justin Bieber - Deserve You_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/24_24_5_Justin Bieber - Intentions (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/28_28_6_Justin Bieber - ETA_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/36_36_8_Justin Bieber - Ghost_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/24_24_5_Justin Bieber - Intentions (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/31_31_7_Justin Bieber - Baby_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/44_44_10_Justin Bieber - Hailey_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/37_37_8_Justin Bieber - Lifetime_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/11_11_2_Justin Bieber - The Minimix (Remix)_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/19_19_4_Justin Bieber - I'll Show You_(Vocals)_(Vocals)_(No Reverb)_33.wav
+./dataset/44k/bieber/36_36_8_Justin Bieber - Ghost_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/26_26_5_Justin Bieber _ Nicki Minaj - Beauty And A Beat_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/28_28_6_Justin Bieber - ETA_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/5_5_1_Justin Bieber - Off My Face_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/17_17_4_Justin Bieber - As Long As You Love Me (Ferry Corsten Radio)_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/13_13_3_Justin Bieber - Company_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/2_2_1_Justin Bieber - All Around Me_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_20.wav
+./dataset/44k/bieber/40_40_9_Justin Bieber - Habitual_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_22.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/49_49_11_Justin Bieber - Mark My Words_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/38_38_8_Justin Bieber - Somebody_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/11_11_2_Justin Bieber - The Minimix (Remix)_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/51_51_12_Justin Bieber - Mistletoe_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/31_31_7_Justin Bieber - Baby_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/47_47_11_Justin Bieber - Boyfriend_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_22.wav
+./dataset/44k/bieber/23_23_5_Justin Bieber - Deserve You_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/17_17_4_Justin Bieber - As Long As You Love Me (Ferry Corsten Radio)_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/13_13_3_Justin Bieber - Company_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/24_24_5_Justin Bieber - Intentions (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/19_19_4_Justin Bieber - I'll Show You_(Vocals)_(Vocals)_(No Reverb)_29.wav
+./dataset/44k/bieber/17_17_4_Justin Bieber - As Long As You Love Me (Ferry Corsten Radio)_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_22.wav
+./dataset/44k/bieber/42_42_9_Justin Bieber - Sorry Apologize_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/12_12_3_Justin Bieber - As Long As You Love Me (Acoustic Version)_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_29.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_27.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_22.wav
+./dataset/44k/bieber/49_49_11_Justin Bieber - Mark My Words_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_25.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/21_21_4_Justin Bieber - Yummy_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/38_38_8_Justin Bieber - Somebody_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/29_29_6_Justin Bieber - Latin Girl_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/28_28_6_Justin Bieber - ETA_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/5_5_1_Justin Bieber - Off My Face_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_20.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/44_44_10_Justin Bieber - Hailey_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/17_17_4_Justin Bieber - As Long As You Love Me (Ferry Corsten Radio)_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/29_29_6_Justin Bieber - Latin Girl_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/2_2_1_Justin Bieber - All Around Me_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/29_29_6_Justin Bieber - Latin Girl_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/2_2_1_Justin Bieber - All Around Me_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/37_37_8_Justin Bieber - Lifetime_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/20_20_4_Justin Bieber - One Time_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/29_29_6_Justin Bieber - Latin Girl_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/41_41_9_Justin Bieber - Love Me_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/2_2_1_Justin Bieber - All Around Me_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/13_13_3_Justin Bieber - Company_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/41_41_9_Justin Bieber - Love Me_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/44_44_10_Justin Bieber - Hailey_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/37_37_8_Justin Bieber - Lifetime_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/41_41_9_Justin Bieber - Love Me_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/46_46_10_Justin Bieber - Sorry_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/21_21_4_Justin Bieber - Yummy_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/23_23_5_Justin Bieber - Deserve You_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/23_23_5_Justin Bieber - Deserve You_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/41_41_9_Justin Bieber - Love Me_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/36_36_8_Justin Bieber - Ghost_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/11_11_2_Justin Bieber - The Minimix (Remix)_(Vocals)_(Vocals)_(No Reverb)_21.wav
+./dataset/44k/bieber/28_28_6_Justin Bieber - ETA_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/19_19_4_Justin Bieber - I'll Show You_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/44_44_10_Justin Bieber - Hailey_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/17_17_4_Justin Bieber - As Long As You Love Me (Ferry Corsten Radio)_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/37_37_8_Justin Bieber - Lifetime_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/28_28_6_Justin Bieber - ETA_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/31_31_7_Justin Bieber - Baby_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/38_38_8_Justin Bieber - Somebody_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/23_23_5_Justin Bieber - Deserve You_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_27.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/38_38_8_Justin Bieber - Somebody_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/21_21_4_Justin Bieber - Yummy_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/46_46_10_Justin Bieber - Sorry_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/13_13_3_Justin Bieber - Company_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/5_5_1_Justin Bieber - Off My Face_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_21.wav
+./dataset/44k/bieber/47_47_11_Justin Bieber - Boyfriend_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/19_19_4_Justin Bieber - I'll Show You_(Vocals)_(Vocals)_(No Reverb)_27.wav
+./dataset/44k/bieber/36_36_8_Justin Bieber - Ghost_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/36_36_8_Justin Bieber - Ghost_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/5_5_1_Justin Bieber - Off My Face_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/17_17_4_Justin Bieber - As Long As You Love Me (Ferry Corsten Radio)_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/2_2_1_Justin Bieber - All Around Me_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/46_46_10_Justin Bieber - Sorry_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/39_39_9_Justin Bieber - Beauty And A Beat (Feat_ Nicki Minaj)_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/31_31_7_Justin Bieber - Baby_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/17_17_4_Justin Bieber - As Long As You Love Me (Ferry Corsten Radio)_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/34_34_7_Justin Bieber - Somebody To Love_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/1_1_1_Justin Bieber - 2 Much_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/2_2_1_Justin Bieber - All Around Me_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/31_31_7_Justin Bieber - Baby_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_23.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/28_28_6_Justin Bieber - ETA_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/19_19_4_Justin Bieber - I'll Show You_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/31_31_7_Justin Bieber - Baby_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/1_1_1_Justin Bieber - 2 Much_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/49_49_11_Justin Bieber - Mark My Words_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/26_26_5_Justin Bieber _ Nicki Minaj - Beauty And A Beat_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/27_27_6_Justin Bieber - Baby (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/23_23_5_Justin Bieber - Deserve You_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/17_17_4_Justin Bieber - As Long As You Love Me (Ferry Corsten Radio)_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/51_51_12_Justin Bieber - Mistletoe_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/27_27_6_Justin Bieber - Baby (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/17_17_4_Justin Bieber - As Long As You Love Me (Ferry Corsten Radio)_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/39_39_9_Justin Bieber - Beauty And A Beat (Feat_ Nicki Minaj)_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_20.wav
+./dataset/44k/bieber/26_26_5_Justin Bieber _ Nicki Minaj - Beauty And A Beat_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/5_5_1_Justin Bieber - Off My Face_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/36_36_8_Justin Bieber - Ghost_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/36_36_8_Justin Bieber - Ghost_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_21.wav
+./dataset/44k/bieber/12_12_3_Justin Bieber - As Long As You Love Me (Acoustic Version)_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/11_11_2_Justin Bieber - The Minimix (Remix)_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_20.wav
+./dataset/44k/bieber/38_38_8_Justin Bieber - Somebody_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/50_50_12_Justin Bieber - Changes_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/40_40_9_Justin Bieber - Habitual_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/11_11_2_Justin Bieber - The Minimix (Remix)_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_30.wav
+./dataset/44k/bieber/31_31_7_Justin Bieber - Baby_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_20.wav
+./dataset/44k/bieber/13_13_3_Justin Bieber - Company_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/21_21_4_Justin Bieber - Yummy_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/12_12_3_Justin Bieber - As Long As You Love Me (Acoustic Version)_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_26.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/31_31_7_Justin Bieber - Baby_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/44_44_10_Justin Bieber - Hailey_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_22.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/49_49_11_Justin Bieber - Mark My Words_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/1_1_1_Justin Bieber - 2 Much_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_24.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/28_28_6_Justin Bieber - ETA_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/34_34_7_Justin Bieber - Somebody To Love_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/21_21_4_Justin Bieber - Yummy_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/2_2_1_Justin Bieber - All Around Me_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/2_2_1_Justin Bieber - All Around Me_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_23.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/28_28_6_Justin Bieber - ETA_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_21.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/19_19_4_Justin Bieber - I'll Show You_(Vocals)_(Vocals)_(No Reverb)_23.wav
+./dataset/44k/bieber/40_40_9_Justin Bieber - Habitual_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/49_49_11_Justin Bieber - Mark My Words_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/28_28_6_Justin Bieber - ETA_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/40_40_9_Justin Bieber - Habitual_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_22.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_26.wav
+./dataset/44k/bieber/40_40_9_Justin Bieber - Habitual_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/13_13_3_Justin Bieber - Company_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/11_11_2_Justin Bieber - The Minimix (Remix)_(Vocals)_(Vocals)_(No Reverb)_20.wav
+./dataset/44k/bieber/31_31_7_Justin Bieber - Baby_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/34_34_7_Justin Bieber - Somebody To Love_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/31_31_7_Justin Bieber - Baby_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/1_1_1_Justin Bieber - 2 Much_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/17_17_4_Justin Bieber - As Long As You Love Me (Ferry Corsten Radio)_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/21_21_4_Justin Bieber - Yummy_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/49_49_11_Justin Bieber - Mark My Words_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/31_31_7_Justin Bieber - Baby_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/42_42_9_Justin Bieber - Sorry Apologize_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/24_24_5_Justin Bieber - Intentions (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/37_37_8_Justin Bieber - Lifetime_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/5_5_1_Justin Bieber - Off My Face_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/1_1_1_Justin Bieber - 2 Much_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/28_28_6_Justin Bieber - ETA_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_22.wav
+./dataset/44k/bieber/1_1_1_Justin Bieber - 2 Much_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_21.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_21.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/1_1_1_Justin Bieber - 2 Much_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/1_1_1_Justin Bieber - 2 Much_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/28_28_6_Justin Bieber - ETA_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/51_51_12_Justin Bieber - Mistletoe_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/49_49_11_Justin Bieber - Mark My Words_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/19_19_4_Justin Bieber - I'll Show You_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_24.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_20.wav
+./dataset/44k/bieber/28_28_6_Justin Bieber - ETA_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/51_51_12_Justin Bieber - Mistletoe_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/20_20_4_Justin Bieber - One Time_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/29_29_6_Justin Bieber - Latin Girl_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_20.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/37_37_8_Justin Bieber - Lifetime_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_24.wav
+./dataset/44k/bieber/37_37_8_Justin Bieber - Lifetime_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/1_1_1_Justin Bieber - 2 Much_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/47_47_11_Justin Bieber - Boyfriend_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/41_41_9_Justin Bieber - Love Me_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_26.wav
+./dataset/44k/bieber/5_5_1_Justin Bieber - Off My Face_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/24_24_5_Justin Bieber - Intentions (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/1_1_1_Justin Bieber - 2 Much_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/42_42_9_Justin Bieber - Sorry Apologize_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/27_27_6_Justin Bieber - Baby (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/11_11_2_Justin Bieber - The Minimix (Remix)_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/39_39_9_Justin Bieber - Beauty And A Beat (Feat_ Nicki Minaj)_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/21_21_4_Justin Bieber - Yummy_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/11_11_2_Justin Bieber - The Minimix (Remix)_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/11_11_2_Justin Bieber - The Minimix (Remix)_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/42_42_9_Justin Bieber - Sorry Apologize_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/47_47_11_Justin Bieber - Boyfriend_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/41_41_9_Justin Bieber - Love Me_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/13_13_3_Justin Bieber - Company_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/38_38_8_Justin Bieber - Somebody_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/24_24_5_Justin Bieber - Intentions (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/34_34_7_Justin Bieber - Somebody To Love_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/11_11_2_Justin Bieber - The Minimix (Remix)_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/13_13_3_Justin Bieber - Company_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/5_5_1_Justin Bieber - Off My Face_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/27_27_6_Justin Bieber - Baby (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_21.wav
+./dataset/44k/bieber/50_50_12_Justin Bieber - Changes_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/36_36_8_Justin Bieber - Ghost_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/21_21_4_Justin Bieber - Yummy_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/1_1_1_Justin Bieber - 2 Much_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/41_41_9_Justin Bieber - Love Me_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/36_36_8_Justin Bieber - Ghost_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/24_24_5_Justin Bieber - Intentions (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/1_1_1_Justin Bieber - 2 Much_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/46_46_10_Justin Bieber - Sorry_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_22.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/19_19_4_Justin Bieber - I'll Show You_(Vocals)_(Vocals)_(No Reverb)_30.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/38_38_8_Justin Bieber - Somebody_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/12_12_3_Justin Bieber - As Long As You Love Me (Acoustic Version)_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/51_51_12_Justin Bieber - Mistletoe_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/44_44_10_Justin Bieber - Hailey_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/28_28_6_Justin Bieber - ETA_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/13_13_3_Justin Bieber - Company_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/19_19_4_Justin Bieber - I'll Show You_(Vocals)_(Vocals)_(No Reverb)_32.wav
+./dataset/44k/bieber/5_5_1_Justin Bieber - Off My Face_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/24_24_5_Justin Bieber - Intentions (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/17_17_4_Justin Bieber - As Long As You Love Me (Ferry Corsten Radio)_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/2_2_1_Justin Bieber - All Around Me_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/49_49_11_Justin Bieber - Mark My Words_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/19_19_4_Justin Bieber - I'll Show You_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/1_1_1_Justin Bieber - 2 Much_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/38_38_8_Justin Bieber - Somebody_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/34_34_7_Justin Bieber - Somebody To Love_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/50_50_12_Justin Bieber - Changes_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/31_31_7_Justin Bieber - Baby_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/39_39_9_Justin Bieber - Beauty And A Beat (Feat_ Nicki Minaj)_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/44_44_10_Justin Bieber - Hailey_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/41_41_9_Justin Bieber - Love Me_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/41_41_9_Justin Bieber - Love Me_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/20_20_4_Justin Bieber - One Time_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/19_19_4_Justin Bieber - I'll Show You_(Vocals)_(Vocals)_(No Reverb)_25.wav
+./dataset/44k/bieber/42_42_9_Justin Bieber - Sorry Apologize_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/21_21_4_Justin Bieber - Yummy_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/29_29_6_Justin Bieber - Latin Girl_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_32.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/34_34_7_Justin Bieber - Somebody To Love_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/23_23_5_Justin Bieber - Deserve You_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/46_46_10_Justin Bieber - Sorry_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/34_34_7_Justin Bieber - Somebody To Love_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/46_46_10_Justin Bieber - Sorry_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/13_13_3_Justin Bieber - Company_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/37_37_8_Justin Bieber - Lifetime_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/41_41_9_Justin Bieber - Love Me_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/2_2_1_Justin Bieber - All Around Me_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/47_47_11_Justin Bieber - Boyfriend_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/40_40_9_Justin Bieber - Habitual_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/40_40_9_Justin Bieber - Habitual_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/44_44_10_Justin Bieber - Hailey_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/21_21_4_Justin Bieber - Yummy_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/27_27_6_Justin Bieber - Baby (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/17_17_4_Justin Bieber - As Long As You Love Me (Ferry Corsten Radio)_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/51_51_12_Justin Bieber - Mistletoe_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_21.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_20.wav
+./dataset/44k/bieber/5_5_1_Justin Bieber - Off My Face_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/34_34_7_Justin Bieber - Somebody To Love_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/11_11_2_Justin Bieber - The Minimix (Remix)_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/11_11_2_Justin Bieber - The Minimix (Remix)_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/34_34_7_Justin Bieber - Somebody To Love_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/41_41_9_Justin Bieber - Love Me_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/19_19_4_Justin Bieber - I'll Show You_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_21.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/26_26_5_Justin Bieber _ Nicki Minaj - Beauty And A Beat_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_23.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/13_13_3_Justin Bieber - Company_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/38_38_8_Justin Bieber - Somebody_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/34_34_7_Justin Bieber - Somebody To Love_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/46_46_10_Justin Bieber - Sorry_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/50_50_12_Justin Bieber - Changes_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/17_17_4_Justin Bieber - As Long As You Love Me (Ferry Corsten Radio)_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/51_51_12_Justin Bieber - Mistletoe_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/38_38_8_Justin Bieber - Somebody_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/31_31_7_Justin Bieber - Baby_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/44_44_10_Justin Bieber - Hailey_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/49_49_11_Justin Bieber - Mark My Words_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/42_42_9_Justin Bieber - Sorry Apologize_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/44_44_10_Justin Bieber - Hailey_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/34_34_7_Justin Bieber - Somebody To Love_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_23.wav
+./dataset/44k/bieber/46_46_10_Justin Bieber - Sorry_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_24.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_21.wav
+./dataset/44k/bieber/40_40_9_Justin Bieber - Habitual_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/21_21_4_Justin Bieber - Yummy_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/51_51_12_Justin Bieber - Mistletoe_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/50_50_12_Justin Bieber - Changes_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/1_1_1_Justin Bieber - 2 Much_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/41_41_9_Justin Bieber - Love Me_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/36_36_8_Justin Bieber - Ghost_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/36_36_8_Justin Bieber - Ghost_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/47_47_11_Justin Bieber - Boyfriend_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/34_34_7_Justin Bieber - Somebody To Love_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/19_19_4_Justin Bieber - I'll Show You_(Vocals)_(Vocals)_(No Reverb)_31.wav
+./dataset/44k/bieber/19_19_4_Justin Bieber - I'll Show You_(Vocals)_(Vocals)_(No Reverb)_34.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_25.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_23.wav
+./dataset/44k/bieber/42_42_9_Justin Bieber - Sorry Apologize_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/47_47_11_Justin Bieber - Boyfriend_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/24_24_5_Justin Bieber - Intentions (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/23_23_5_Justin Bieber - Deserve You_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/27_27_6_Justin Bieber - Baby (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/39_39_9_Justin Bieber - Beauty And A Beat (Feat_ Nicki Minaj)_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/36_36_8_Justin Bieber - Ghost_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_31.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/30_30_6_Justin Bieber - Purpose_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/49_49_11_Justin Bieber - Mark My Words_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/38_38_8_Justin Bieber - Somebody_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/46_46_10_Justin Bieber - Sorry_(Vocals)_(Vocals)_(No Reverb)_20.wav
+./dataset/44k/bieber/41_41_9_Justin Bieber - Love Me_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/44_44_10_Justin Bieber - Hailey_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/21_21_4_Justin Bieber - Yummy_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/40_40_9_Justin Bieber - Habitual_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/38_38_8_Justin Bieber - Somebody_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/17_17_4_Justin Bieber - As Long As You Love Me (Ferry Corsten Radio)_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/39_39_9_Justin Bieber - Beauty And A Beat (Feat_ Nicki Minaj)_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/51_51_12_Justin Bieber - Mistletoe_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/49_49_11_Justin Bieber - Mark My Words_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/23_23_5_Justin Bieber - Deserve You_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/37_37_8_Justin Bieber - Lifetime_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/21_21_4_Justin Bieber - Yummy_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/1_1_1_Justin Bieber - 2 Much_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/41_41_9_Justin Bieber - Love Me_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/38_38_8_Justin Bieber - Somebody_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_29.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/28_28_6_Justin Bieber - ETA_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/2_2_1_Justin Bieber - All Around Me_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_20.wav
+./dataset/44k/bieber/37_37_8_Justin Bieber - Lifetime_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/51_51_12_Justin Bieber - Mistletoe_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/44_44_10_Justin Bieber - Hailey_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/37_37_8_Justin Bieber - Lifetime_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_20.wav
+./dataset/44k/bieber/51_51_12_Justin Bieber - Mistletoe_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/40_40_9_Justin Bieber - Habitual_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/1_1_1_Justin Bieber - 2 Much_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/39_39_9_Justin Bieber - Beauty And A Beat (Feat_ Nicki Minaj)_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/50_50_12_Justin Bieber - Changes_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/23_23_5_Justin Bieber - Deserve You_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/27_27_6_Justin Bieber - Baby (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/13_13_3_Justin Bieber - Company_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_24.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/31_31_7_Justin Bieber - Baby_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/40_40_9_Justin Bieber - Habitual_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/17_17_4_Justin Bieber - As Long As You Love Me (Ferry Corsten Radio)_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/37_37_8_Justin Bieber - Lifetime_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/40_40_9_Justin Bieber - Habitual_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/11_11_2_Justin Bieber - The Minimix (Remix)_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/37_37_8_Justin Bieber - Lifetime_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/42_42_9_Justin Bieber - Sorry Apologize_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/11_11_2_Justin Bieber - The Minimix (Remix)_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/37_37_8_Justin Bieber - Lifetime_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/20_20_4_Justin Bieber - One Time_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_25.wav
+./dataset/44k/bieber/40_40_9_Justin Bieber - Habitual_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/37_37_8_Justin Bieber - Lifetime_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/38_38_8_Justin Bieber - Somebody_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/40_40_9_Justin Bieber - Habitual_(Vocals)_(Vocals)_(No Reverb)_13.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/34_34_7_Justin Bieber - Somebody To Love_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_21.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/34_34_7_Justin Bieber - Somebody To Love_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/46_46_10_Justin Bieber - Sorry_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/29_29_6_Justin Bieber - Latin Girl_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/19_19_4_Justin Bieber - I'll Show You_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/37_37_8_Justin Bieber - Lifetime_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/29_29_6_Justin Bieber - Latin Girl_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/10_10_2_Justin Bieber - One Less Lonely Girl_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/42_42_9_Justin Bieber - Sorry Apologize_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/6_6_1_Justin Bieber - Swap It Out_(Vocals)_(Vocals)_(No Reverb)_11.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_22.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/51_51_12_Justin Bieber - Mistletoe_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/34_34_7_Justin Bieber - Somebody To Love_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/28_28_6_Justin Bieber - ETA_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/42_42_9_Justin Bieber - Sorry Apologize_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/2_2_1_Justin Bieber - All Around Me_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/12_12_3_Justin Bieber - As Long As You Love Me (Acoustic Version)_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/47_47_11_Justin Bieber - Boyfriend_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/46_46_10_Justin Bieber - Sorry_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/51_51_12_Justin Bieber - Mistletoe_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/12_12_3_Justin Bieber - As Long As You Love Me (Acoustic Version)_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/9_9_2_Justin Bieber - Hold On_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/14_14_3_Justin Bieber - Hold Tight_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/13_13_3_Justin Bieber - Company_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/29_29_6_Justin Bieber - Latin Girl_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_23.wav
+./dataset/44k/bieber/31_31_7_Justin Bieber - Baby_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/16_16_3_Justin Bieber - What Do You Mean__(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/27_27_6_Justin Bieber - Baby (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/23_23_5_Justin Bieber - Deserve You_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/34_34_7_Justin Bieber - Somebody To Love_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/4_4_1_Justin Bieber - Hit the Ground_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/46_46_10_Justin Bieber - Sorry_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/44_44_10_Justin Bieber - Hailey_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/51_51_12_Justin Bieber - Mistletoe_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/7_7_2_Justin Bieber - Anyone_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/33_33_7_Justin Bieber - Life Is Worth Living_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/20_20_4_Justin Bieber - One Time_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/24_24_5_Justin Bieber - Intentions (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/22_22_5_Justin Bieber - Available_(Vocals)_(Vocals)_(No Reverb)_14.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_15.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/26_26_5_Justin Bieber _ Nicki Minaj - Beauty And A Beat_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_28.wav
+./dataset/44k/bieber/19_19_4_Justin Bieber - I'll Show You_(Vocals)_(Vocals)_(No Reverb)_24.wav
+./dataset/44k/bieber/3_3_1_Justin Bieber - Come Around Me_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_1.wav
+./dataset/44k/bieber/18_18_4_Justin Bieber - Confirmation_(Vocals)_(Vocals)_(No Reverb)_18.wav
+./dataset/44k/bieber/35_35_8_Justin Bieber - Beautiful Love (Free Fire)_(Vocals)_(Vocals)_(No Reverb)_3.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/24_24_5_Justin Bieber - Intentions (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_12.wav
+./dataset/44k/bieber/36_36_8_Justin Bieber - Ghost_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_8.wav
+./dataset/44k/bieber/36_36_8_Justin Bieber - Ghost_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/51_51_12_Justin Bieber - Mistletoe_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/52_52_13_Justin Bieber - Nothing Like Us_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/24_24_5_Justin Bieber - Intentions (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/37_37_8_Justin Bieber - Lifetime_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/25_25_5_Justin Bieber - Pray_(Vocals)_(Vocals)_(No Reverb)_16.wav
+./dataset/44k/bieber/24_24_5_Justin Bieber - Intentions (Acoustic)_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_2.wav
+./dataset/44k/bieber/47_47_11_Justin Bieber - Boyfriend_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/32_32_7_Justin Bieber - Favorite Girl_(Vocals)_(Vocals)_(No Reverb)_9.wav
+./dataset/44k/bieber/48_48_11_Justin Bieber - Heartbreaker_(Vocals)_(Vocals)_(No Reverb)_0.wav
+./dataset/44k/bieber/8_8_2_Justin Bieber - Common Denominator (iTunes Bonus)_(Vocals)_(Vocals)_(No Reverb)_19.wav
+./dataset/44k/bieber/40_40_9_Justin Bieber - Habitual_(Vocals)_(Vocals)_(No Reverb)_5.wav
+./dataset/44k/bieber/41_41_9_Justin Bieber - Love Me_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/29_29_6_Justin Bieber - Latin Girl_(Vocals)_(Vocals)_(No Reverb)_6.wav
+./dataset/44k/bieber/43_43_10_Justin Bieber - Been You_(Vocals)_(Vocals)_(No Reverb)_20.wav
+./dataset/44k/bieber/29_29_6_Justin Bieber - Latin Girl_(Vocals)_(Vocals)_(No Reverb)_4.wav
+./dataset/44k/bieber/45_45_10_Justin Bieber - Love Yourself_(Vocals)_(Vocals)_(No Reverb)_25.wav
+./dataset/44k/bieber/2_2_1_Justin Bieber - All Around Me_(Vocals)_(Vocals)_(No Reverb)_7.wav
+./dataset/44k/bieber/51_51_12_Justin Bieber - Mistletoe_(Vocals)_(Vocals)_(No Reverb)_17.wav
+./dataset/44k/bieber/15_15_3_Justin Bieber - One Time - Acoustic Version_(Vocals)_(Vocals)_(No Reverb)_10.wav
+./dataset/44k/bieber/28_28_6_Justin Bieber - ETA_(Vocals)_(Vocals)_(No Reverb)_9.wav
